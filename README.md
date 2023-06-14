@@ -3,5 +3,5 @@ The repository provided the codes used in the master's thesis on Book Recommenda
 There are 3 jupyter notebooks in the repository:
 - download.ipynb - code that downloads data
 - analysis.ipynb - code with analysis performed
-- model.ipynb - code with selection of model parameters. 
+- models.ipynb - code with selection of model parameters. 
 
